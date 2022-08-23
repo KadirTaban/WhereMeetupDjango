@@ -7,7 +7,7 @@ Repo was originated to Maximilian crash courses.
 
 <code> source <:venv:>/bin/activate </code>
 
-<code> pip install requirements.txt </code>
+<code> pip install -r requirements.txt </code>
 
 <code> python manage.py migrate </code>
 
